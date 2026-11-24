@@ -1,0 +1,11 @@
+{
+  "name": "aikido-test-repo-b",
+  "version": "1.0.0",
+  "description": "Small public test repo for Aikido Intigriti security testing",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "tough-cookie": "2.4.3"
+  }
+}
